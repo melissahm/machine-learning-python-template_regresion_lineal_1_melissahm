@@ -1,4 +1,4 @@
-age,bmi,children,sex_female,sex_male,smoker_no,smoker_yes,region_northeast,region_northwest,region_southeast,region_southwest,bmi_categoria_bajo_peso,bmi_categoria_normal,bmi_categoria_obesidad_grado1,bmi_categoria_obesidad_grado2,bmi_categoria_obesidad_grado3,bmi_categoria_sobrepeso,y
+age,bmi,children,sex_female,sex_male,smoker_no,smoker_yes,region_northeast,region_northwest,region_southeast,region_southwest,bmi_categoria_bajo_peso,bmi_categoria_normal,bmi_categoria_obesidad_grado1,bmi_categoria_obesidad_grado2,bmi_categoria_obesidad_grado3,bmi_categoria_sobrepeso,charges
 -1.1576803995424783,-0.9969276761488512,-0.9079080398648359,0.0,1.0,1.0,0.0,1.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,2396.0959
 -1.3006187625721515,-0.7927620408698668,0.7669042027848787,0.0,1.0,1.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,3279.86855
 0.9149258643877813,1.1546640187142934,0.7669042027848787,1.0,0.0,1.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,33471.97189
